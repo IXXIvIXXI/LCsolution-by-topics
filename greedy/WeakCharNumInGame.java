@@ -1,3 +1,4 @@
+// LC 1996
 class Solution {
     // sorting
     public int numberOfWeakCharacters(int[][] properties) {
