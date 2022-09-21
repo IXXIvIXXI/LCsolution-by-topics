@@ -1,4 +1,6 @@
 // LC 236
+// Time Complexity: O(N)
+// Space Complexity: O(N)
 class Solution {
     TreeNode res;
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
